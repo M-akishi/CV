@@ -51,7 +51,9 @@ Especialista en bases de datos y desarrollo backend con experiencia en administr
 ## Certificaciones y Cursos
 - **Desarrollo de Aplicaciones Básicas** – CFT Inacap (Mar 2023 – Ene 2024)
 - **Soporte Computacional** – CFT Inacap (Mar 2023 – Ene 2024)
-
+- **Desarrollador Full Stack** - CFT Inacap (Mar 2023 – Dic 2024)
+- **Diseño Ágil De Sistemas** - CFT Inacap (Mar 2023 – Dic 2024)
+- **Diseño Y Gestión De Base De Datos** – CFT Inacap (Mar 2023 – Dic 2024)
 ---
 
 ## Idiomas

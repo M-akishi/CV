@@ -57,12 +57,27 @@
       {
         "nombre": "Desarrollo de Aplicaciones Básicas",
         "institucion": "CFT Inacap",
-        "periodo": "Mar 2023 - Ene 2024"
+        "periodo": "Mar 2023 - Dic 2024"
       },
       {
         "nombre": "Soporte Computacional",
         "institucion": "CFT Inacap",
         "periodo": "Mar 2023 - Ene 2024"
+      },
+      {
+        "nombre": "Desarrollador Full Stack",
+        "institucion": "CFT Inacap",
+        "periodo": "Mar 2023 - Dic 2024"
+      },
+      {
+        "nombre": "Diseño Ágil De Sistemas",
+        "institucion": "CFT Inacap",
+        "periodo": "Mar 2023 - Dic 2024"
+      },
+      {
+        "nombre": "Diseño Y Gestión De Base De Datos",
+        "institucion": "CFT Inacap",
+        "periodo": "Mar 2023 - Dic 2024"
       }
     ],
     "idiomas": {
