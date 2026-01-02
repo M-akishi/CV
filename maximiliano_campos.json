@@ -1,88 +1,92 @@
 {
-    "nombre": "Maximiliano Campos",
-    "contacto": {
-      "telefono": "+569 4080 2695",
-      "email": "maximiliano.campos@outlook.cl",
-      "linkedin": "https://www.linkedin.com/in/maximiliano-campos-055a921a9",
-      "github": "https://github.com/M-akishi"
-    },
-    "perfil_profesional": "Especialista en bases de datos y desarrollo backend con experiencia en administración de redes y soporte informático. Capacidad para trabajar en equipo o de manera independiente, con enfoque en optimización de procesos y soluciones tecnológicas eficientes.",
-    "experiencia_laboral": [
-      {
-        "puesto": "Soporte de Base de Datos y Redes",
-        "empresa": "Constructora Campos y Pérez Ltda.",
-        "periodo": "Jun 2019 - Dic 2024",
-        "responsabilidades": [
-          "Administración y mantenimiento de bases de datos.",
-          "Desarrollo de herramientas para teletrabajo.",
-          "Soporte a la red interna de la oficina.",
-          "Reparación y mantenimiento de equipos informáticos."
-        ]
-      }
-    ],
-    "formacion_academica": [
-      {
-        "titulo": "Analista Programador",
-        "institucion": "CFT Inacap",
-        "periodo": "Mar 2023 - Presente",
-        "estado": "Cursando - Egreso esperado 2025"
-      },
-      {
-        "titulo": "Ingeniería en Informática",
-        "institucion": "Universidad de La Frontera",
-        "periodo": "2020 - 2022",
-        "estado": "Cursado hasta 2022"
-      },
-      {
-        "titulo": "Plan Común Ingeniería Civil",
-        "institucion": "Universidad de La Frontera",
-        "periodo": "2018",
-        "estado": "Cursado hasta 2018"
-      },
-      {
-        "titulo": "Educación Media y Básica",
-        "institucion": "Colegio Adventista de Temuco",
-        "periodo": "Egreso: Dic 2017"
-      }
-    ],
-    "habilidades": [
-      "Administración y optimización de bases de datos (SQL, MySQL, PostgreSQL)",
-      "Desarrollo backend (Java, PHP)",
-      "Gestión y administración de redes",
-      "Soporte técnico y mantenimiento de hardware/software",
-      "Desarrollo de herramientas de teletrabajo",
-      "Seguridad informática y administración de sistemas"
-    ],
-    "certificaciones_cursos": [
-      {
-        "nombre": "Desarrollo de Aplicaciones Básicas",
-        "institucion": "CFT Inacap",
-        "periodo": "Mar 2023 - Dic 2024"
-      },
-      {
-        "nombre": "Soporte Computacional",
-        "institucion": "CFT Inacap",
-        "periodo": "Mar 2023 - Ene 2024"
-      },
-      {
-        "nombre": "Desarrollador Full Stack",
-        "institucion": "CFT Inacap",
-        "periodo": "Mar 2023 - Dic 2024"
-      },
-      {
-        "nombre": "Diseño Ágil De Sistemas",
-        "institucion": "CFT Inacap",
-        "periodo": "Mar 2023 - Dic 2024"
-      },
-      {
-        "nombre": "Diseño Y Gestión De Base De Datos",
-        "institucion": "CFT Inacap",
-        "periodo": "Mar 2023 - Dic 2024"
-      }
-    ],
-    "idiomas": {
-      "espanol": "Nativo",
-      "ingles": "Altamente competente"
+  "nombre": "Maximiliano Campos",
+  "ubicacion": "Chile",
+  "contacto": {
+    "telefono": "+56 9 4080 2695",
+    "email": "maximiliano.campos@outlook.cl",
+    "linkedin": "https://www.linkedin.com/in/maximiliano-campos-055a921a9",
+    "github": "https://github.com/M-akishi"
+  },
+  "perfil_profesional": "Analista Programador titulado, orientado al desarrollo backend y administración de bases de datos, con experiencia en soporte informático, redes y automatización de procesos. Capaz de diseñar soluciones eficientes, mantener sistemas productivos y adaptarse rápidamente a nuevas tecnologías. Interés en posiciones backend junior, bases de datos y sistemas.",
+  "experiencia_laboral": [
+    {
+      "puesto": "Soporte de Bases de Datos y Redes",
+      "empresa": "Constructora Campos y Pérez Ltda.",
+      "periodo": "Jun 2019 - Dic 2025",
+      "responsabilidades": [
+        "Administración, respaldo y mantenimiento de bases de datos internas.",
+        "Desarrollo de herramientas internas para optimización de procesos y teletrabajo.",
+        "Gestión y soporte de la red interna (LAN, conectividad y servicios).",
+        "Soporte técnico a usuarios finales.",
+        "Mantención preventiva y correctiva de equipos informáticos.",
+        "Diagnóstico y resolución de incidencias de software y hardware."
+      ]
     }
+  ],
+  "formacion_academica": [
+    {
+      "titulo": "Analista Programador",
+      "institucion": "CFT INACAP",
+      "periodo": "2025",
+      "estado": "Titulado - Certificado digital disponible (título físico en trámite)"
+    },
+    {
+      "titulo": "Ingeniería en Informática",
+      "institucion": "Universidad de La Frontera",
+      "periodo": "2020 - 2022",
+      "estado": "Cursado hasta 2022"
+    },
+    {
+      "titulo": "Plan Común Ingeniería Civil",
+      "institucion": "Universidad de La Frontera",
+      "periodo": "2018",
+      "estado": "Cursado hasta 2018"
+    },
+    {
+      "titulo": "Educación Media",
+      "institucion": "Colegio Adventista de Temuco",
+      "periodo": "Egreso 2017"
+    }
+  ],
+  "habilidades_tecnicas": {
+    "bases_de_datos": [
+      "Microsoft SQL Server",
+      "MySQL",
+      "PostgreSQL",
+      "Diseño de bases de datos",
+      "Consultas y optimización",
+      "Backups y mantenimiento"
+    ],
+    "desarrollo_backend": [
+      "Java",
+      "PHP",
+      "Laravel (básico/intermedio)",
+      "Consumo e integración de APIs REST"
+    ],
+    "sistemas_y_redes": [
+      "Administración básica de servidores Linux",
+      "Redes LAN",
+      "Soporte de conectividad",
+      "Herramientas de acceso remoto y teletrabajo"
+    ],
+    "soporte_y_sistemas": [
+      "Mantenimiento de hardware y software",
+      "Seguridad informática básica",
+      "Automatización de tareas técnicas"
+    ]
+  },
+  "proyectos_experiencia_tecnica": [
+    "Desarrollo de herramientas internas para automatizar procesos administrativos.",
+    "Creación de utilidades backend para consumo de APIs y manejo de datos.",
+    "Proyectos personales publicados en GitHub enfocados en backend y automatización."
+  ],
+  "informacion_adicional": [
+    "Disponibilidad inmediata.",
+    "Interés en desarrollo backend, bases de datos y sistemas.",
+    "Aprendizaje continuo y enfoque en buenas prácticas."
+  ],
+  "idiomas": {
+    "espanol": "Nativo",
+    "ingles": "Altamente competente"
   }
-  
+}
