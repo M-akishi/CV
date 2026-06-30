@@ -8,7 +8,7 @@
 ---
 
 ## Perfil Profesional
-Analista Programador titulado, orientado al desarrollo backend y administración de bases de datos, con experiencia en soporte informático, redes y automatización de procesos. Capaz de diseñar soluciones eficientes, mantener sistemas productivos y adaptarse rápidamente a nuevas tecnologías. Interés en posiciones backend junior, bases de datos y sistemas.
+Analista Programador titulado, orientado al desarrollo backend y administración de bases de datos, con experiencia en soporte informático, redes y automatización de procesos. Capaz de diseñar soluciones eficientes, mantener sistemas productivos y adaptarse rápidamente a nuevas tecnologías.
 
 ---
 
@@ -58,10 +58,8 @@ Analista Programador titulado, orientado al desarrollo backend y administración
 - Backups y mantenimiento
 
 ### Desarrollo Backend
-- Java
-- PHP
-- Laravel (nivel básico/intermedio)
-- Consumo e integración de APIs REST
+- FastApi
+- Flask
 
 ### Sistemas y Redes
 - Administración básica de servidores Linux
