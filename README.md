@@ -16,7 +16,7 @@ Analista Programador titulado, orientado al desarrollo backend y administración
 
 ### Soporte de Bases de Datos y Redes  
 **Constructora Campos y Pérez Ltda.**  
-📅 Jun 2019 – Dic 2025  
+📅 Jun 2019 
 
 - Administración, respaldo y mantenimiento de bases de datos internas.
 - Desarrollo de herramientas internas para optimización de procesos y teletrabajo.
@@ -83,7 +83,6 @@ Analista Programador titulado, orientado al desarrollo backend y administración
 ---
 
 ## Información Adicional
-- Disponibilidad inmediata.
 - Interés en desarrollo backend, bases de datos y sistemas.
 - Aprendizaje continuo y enfoque en buenas prácticas.
 
